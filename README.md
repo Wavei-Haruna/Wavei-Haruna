@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Wavei-Haruna
-- 👀 I’m interested in web development
-- 🌱 I’m currently a javaScript Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wavharun2@gmail.com
+Haruna Wavei
+Front-End Web Developer | CTO at Awunpara Inc.
 
-<!---
-Wavei-Haruna/Wavei-Haruna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an enthusiastic front-end(React.js, Next.js and Tailwindcss, Bootstrap) web developer with over 4 years of experience, proficient in Google Firebase and UI/UX design. I have successfully designed products currently in production.
+
+Current Roles:
+
+Co-founder & CTO @ Awunpara Inc.
+Front-End Developer @ Sate Consult
+Education:
+
+BSc. IT, AAMUSTED, Kumasi (Ghana)
