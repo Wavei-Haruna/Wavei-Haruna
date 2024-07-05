@@ -4,11 +4,7 @@ Front-End Web Developer | CTO at Awunpara Inc.
 I am an enthusiastic front-end web developer with over 4 years of experience, proficient in Google Firebase and UI/UX design. I am passionate about improving the economic and social well-being of the marginalized and have successfully designed products currently in production.
 
 
-## Tech Stack
-
-## Tech Stack
-
-## Tech Stack
+## Tech Stack-Wavei Haruna
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
