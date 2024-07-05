@@ -1,7 +1,7 @@
 Front-End Web Developer | CTO at Awunpara Inc.
 
 
-I am an enthusiastic front-end web developer with over 3 years of experience, proficient in Google Firebase and UI/UX design. I am passionate about improving the economic and social well-being of the marginalized and have successfully designed products currently in production.
+I am an enthusiastic front-end web developer with over 4 years of experience, proficient in Google Firebase and UI/UX design. I am passionate about improving the economic and social well-being of the marginalized and have successfully designed products currently in production.
 
 
 ## Tech Stack
